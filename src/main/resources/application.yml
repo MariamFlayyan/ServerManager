@@ -1,0 +1,5 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://0.0.0.0:5432/demodb
+    username: postgres
+    password: password
